@@ -31,7 +31,5 @@ class basetest(unittest.TestCase):
         print('division: ', self.a/self.b)
         assert self.a==self.a+self.b
         
-        
-#https://www.blazemeter.com/blog/how-automate-testing-using-selenium-webdriver-jenkins-and-allure
     
     
